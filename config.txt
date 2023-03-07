@@ -1,2 +1,4 @@
 Configuration added from Github
 Configuration Added locally
+
+Added more configurations
